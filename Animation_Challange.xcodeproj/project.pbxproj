@@ -1,0 +1,555 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E9825C1E2E85CCCD005BDF37 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E9825C082E85CCCB005BDF37 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E9825C0F2E85CCCB005BDF37;
+			remoteInfo = Animation_Challange;
+		};
+		E9825C282E85CCCD005BDF37 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E9825C082E85CCCB005BDF37 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E9825C0F2E85CCCB005BDF37;
+			remoteInfo = Animation_Challange;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E9825C102E85CCCB005BDF37 /* Animation_Challange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation_Challange.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9825C1D2E85CCCD005BDF37 /* Animation_ChallangeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Animation_ChallangeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9825C272E85CCCD005BDF37 /* Animation_ChallangeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Animation_ChallangeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E9825C122E85CCCB005BDF37 /* Animation_Challange */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Animation_Challange;
+			sourceTree = "<group>";
+		};
+		E9825C202E85CCCD005BDF37 /* Animation_ChallangeTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Animation_ChallangeTests;
+			sourceTree = "<group>";
+		};
+		E9825C2A2E85CCCD005BDF37 /* Animation_ChallangeUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Animation_ChallangeUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E9825C0D2E85CCCB005BDF37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C1A2E85CCCD005BDF37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C242E85CCCD005BDF37 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E9825C072E85CCCB005BDF37 = {
+			isa = PBXGroup;
+			children = (
+				E9825C122E85CCCB005BDF37 /* Animation_Challange */,
+				E9825C202E85CCCD005BDF37 /* Animation_ChallangeTests */,
+				E9825C2A2E85CCCD005BDF37 /* Animation_ChallangeUITests */,
+				E9825C112E85CCCB005BDF37 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E9825C112E85CCCB005BDF37 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E9825C102E85CCCB005BDF37 /* Animation_Challange.app */,
+				E9825C1D2E85CCCD005BDF37 /* Animation_ChallangeTests.xctest */,
+				E9825C272E85CCCD005BDF37 /* Animation_ChallangeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E9825C0F2E85CCCB005BDF37 /* Animation_Challange */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E9825C312E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_Challange" */;
+			buildPhases = (
+				E9825C0C2E85CCCB005BDF37 /* Sources */,
+				E9825C0D2E85CCCB005BDF37 /* Frameworks */,
+				E9825C0E2E85CCCB005BDF37 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E9825C122E85CCCB005BDF37 /* Animation_Challange */,
+			);
+			name = Animation_Challange;
+			packageProductDependencies = (
+			);
+			productName = Animation_Challange;
+			productReference = E9825C102E85CCCB005BDF37 /* Animation_Challange.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E9825C1C2E85CCCD005BDF37 /* Animation_ChallangeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E9825C342E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_ChallangeTests" */;
+			buildPhases = (
+				E9825C192E85CCCD005BDF37 /* Sources */,
+				E9825C1A2E85CCCD005BDF37 /* Frameworks */,
+				E9825C1B2E85CCCD005BDF37 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E9825C1F2E85CCCD005BDF37 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E9825C202E85CCCD005BDF37 /* Animation_ChallangeTests */,
+			);
+			name = Animation_ChallangeTests;
+			packageProductDependencies = (
+			);
+			productName = Animation_ChallangeTests;
+			productReference = E9825C1D2E85CCCD005BDF37 /* Animation_ChallangeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E9825C262E85CCCD005BDF37 /* Animation_ChallangeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E9825C372E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_ChallangeUITests" */;
+			buildPhases = (
+				E9825C232E85CCCD005BDF37 /* Sources */,
+				E9825C242E85CCCD005BDF37 /* Frameworks */,
+				E9825C252E85CCCD005BDF37 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E9825C292E85CCCD005BDF37 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E9825C2A2E85CCCD005BDF37 /* Animation_ChallangeUITests */,
+			);
+			name = Animation_ChallangeUITests;
+			packageProductDependencies = (
+			);
+			productName = Animation_ChallangeUITests;
+			productReference = E9825C272E85CCCD005BDF37 /* Animation_ChallangeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E9825C082E85CCCB005BDF37 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					E9825C0F2E85CCCB005BDF37 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					E9825C1C2E85CCCD005BDF37 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E9825C0F2E85CCCB005BDF37;
+					};
+					E9825C262E85CCCD005BDF37 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = E9825C0F2E85CCCB005BDF37;
+					};
+				};
+			};
+			buildConfigurationList = E9825C0B2E85CCCB005BDF37 /* Build configuration list for PBXProject "Animation_Challange" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E9825C072E85CCCB005BDF37;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E9825C112E85CCCB005BDF37 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E9825C0F2E85CCCB005BDF37 /* Animation_Challange */,
+				E9825C1C2E85CCCD005BDF37 /* Animation_ChallangeTests */,
+				E9825C262E85CCCD005BDF37 /* Animation_ChallangeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E9825C0E2E85CCCB005BDF37 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C1B2E85CCCD005BDF37 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C252E85CCCD005BDF37 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E9825C0C2E85CCCB005BDF37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C192E85CCCD005BDF37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E9825C232E85CCCD005BDF37 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E9825C1F2E85CCCD005BDF37 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E9825C0F2E85CCCB005BDF37 /* Animation_Challange */;
+			targetProxy = E9825C1E2E85CCCD005BDF37 /* PBXContainerItemProxy */;
+		};
+		E9825C292E85CCCD005BDF37 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E9825C0F2E85CCCB005BDF37 /* Animation_Challange */;
+			targetProxy = E9825C282E85CCCD005BDF37 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E9825C2F2E85CCCD005BDF37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E9825C302E85CCCD005BDF37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E9825C322E85CCCD005BDF37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-Challange";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E9825C332E85CCCD005BDF37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-Challange";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E9825C352E85CCCD005BDF37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-ChallangeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Animation_Challange.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Animation_Challange";
+			};
+			name = Debug;
+		};
+		E9825C362E85CCCD005BDF37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-ChallangeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Animation_Challange.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Animation_Challange";
+			};
+			name = Release;
+		};
+		E9825C382E85CCCD005BDF37 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-ChallangeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Animation_Challange;
+			};
+			name = Debug;
+		};
+		E9825C392E85CCCD005BDF37 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "CTC.Animation-ChallangeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Animation_Challange;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E9825C0B2E85CCCB005BDF37 /* Build configuration list for PBXProject "Animation_Challange" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9825C2F2E85CCCD005BDF37 /* Debug */,
+				E9825C302E85CCCD005BDF37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E9825C312E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_Challange" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9825C322E85CCCD005BDF37 /* Debug */,
+				E9825C332E85CCCD005BDF37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E9825C342E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_ChallangeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9825C352E85CCCD005BDF37 /* Debug */,
+				E9825C362E85CCCD005BDF37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E9825C372E85CCCD005BDF37 /* Build configuration list for PBXNativeTarget "Animation_ChallangeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E9825C382E85CCCD005BDF37 /* Debug */,
+				E9825C392E85CCCD005BDF37 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E9825C082E85CCCB005BDF37 /* Project object */;
+}
